@@ -1,0 +1,1 @@
+const products=[{name:'CeraVe Hair Removal Spray',price:570},{name:'K35 Wireless Microphone',price:1600}];
